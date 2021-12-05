@@ -23,7 +23,7 @@ const Contact = () => {
               className="cta-btn cta-btn--resume"
               href={email ? `mailto:${email}` : 'https://www.linkedin.com/in/dkremenitzer/'}
             >
-              {btn || "Let's Connectq"}
+              {btn || "Let's Connect"}
             </a>
           </div>
         </Fade>

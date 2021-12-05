@@ -76,7 +76,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'd.kremenitzer@gmail.com',
+  cta: '',
   btn: '',
   email: '',
 };
@@ -101,7 +101,6 @@ export const footerData = {
     },
   ],
 };
-
 
 export const githubButtons = {
   isEnabled: false,
