@@ -1,7 +1,7 @@
 {
-  "name": "Kremenitzer Portfolio",
+  "name": "gatsby-starter-hello-world",
   "private": true,
-  "description": "Software Engineering Portfolio",
+  "description": "Kremenitzer Software Engineering Portfolio",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
