@@ -7,7 +7,7 @@
 - Amazon-Clone
 - ERC-20 Token on the Ethereum Network
 - Coinbase Clone
-- Commercial/Vo Portfolio
+- Commercial/VO Portfolio
 
 
 ## Technologies used 🛠️
