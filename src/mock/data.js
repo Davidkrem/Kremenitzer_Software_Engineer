@@ -103,5 +103,5 @@ export const footerData = {
 };
 
 export const githubButtons = {
-  isEnabled: false,
+  isEnabled: true,
 };
