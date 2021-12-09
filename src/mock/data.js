@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Blocks',
     info: 'A globally encrypted file sharing platform',
     info2: ` Security in Blocks comes from the decentralized process through the Ethereum Blockchain. Through this process, your files will be safely stored in the IPFS (The InterPlanetary File System) utilizing Solidity Smart Contracts, into a unique hash password that can be shared via text, email or even by QR Code.`,
-    url: 'coming soonn',
+    url: 'https://radiant-anchorage-37501.herokuapp.com/',
     repo: 'https://github.com/FullStack-Capstone-2109-KFT/Blocks',
   },
   {
