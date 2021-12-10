@@ -15,6 +15,12 @@ export default () => {
         <title>{title || 'Gatsby Simplefolio'}</title>
         <html lang={lang || 'en'} />
         <meta name="description" content={description || 'Gatsby Simplefolio'} />
+        <meta name="description" content="_" />
+        <meta name="title" property="og:title" content="David Kremenitzer - Software Engineer" />
+        <meta property="og:type" content="Portfolio Website" />
+        <meta name="image" property="og:image" content="https://flic.kr/ps/3Y1oT1" />
+        <meta name="description" property="og:description" content="_" />
+        <meta name="author" content="Kremenitzer Portfolio" />
       </Helmet>
       <App />
     </>
