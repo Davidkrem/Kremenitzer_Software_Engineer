@@ -19,6 +19,12 @@ export default function HTML({
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="_" />
+        <meta name="title" property="og:title" content="David Kremenitzer - Software Engineer" />
+        <meta property="og:type" content="Portfolio Website" />
+        <meta name="image" property="og:image" content="https://flic.kr/ps/3Y1oT1" />
+        <meta name="description" property="og:description" content="_" />
+        <meta name="author" content="Kremenitzer Portfolio" />
         {headComponents}
       </head>
       <body {...bodyAttributes}>
