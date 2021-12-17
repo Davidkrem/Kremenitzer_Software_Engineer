@@ -56,6 +56,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'TaskBoard.png',
+    title: 'TypeScript TaskBoard',
+    info: `A task management application using TypeScript that allows users to create, edit, and drag and drop tasks.`,
+    info2: '',
+    url: 'Coming Soon',
+    repo: 'https://github.com/Davidkrem/TypeScript-TaskBoard', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'CoinbaseClone.png',
     title: 'Coinbase Clone',
     info: `Cloned Coinbase's UI using React Native`,
