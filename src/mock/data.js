@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'Kremenitzer.JPG',
   paragraphOne: 'Voice-Over Artist turned Software Engineer',
-  paragraphTwo: `You’ll soon know my code, but you’ve definitely heard my voice. For the past 25 years, I have been a professional commercial/voice-over actor with A3 Artists Agency. I was the voice of the 'bacon dog' in Purina's national commercials, the voice of Subway, and most recently dubbed Tom Holland's voice in post production ADR for his films.`,
+  paragraphTwo: `You’ll soon know my code, but you’ve definitely heard my voice. For the last decade, I have been a professional commercial/voice-over actor with A3 Artists Agency. I was the voice of the 'bacon dog' in Purina's national commercials, the voice of Subway, and most recently dubbed Tom Holland's voice in post production ADR for his films.`,
   paragraphThree: 'I live in NYC',
   resume: 'https://drive.google.com/file/d/1mhBj9MkAwhuIDfbXP50x3hH_1IwqS8fH/view?usp=sharing',
 };
