@@ -60,17 +60,8 @@ export const projectsData = [
     title: 'TypeScript TaskBoard',
     info: `A task management application using TypeScript that allows users to create, edit, and drag and drop tasks.`,
     info2: '',
-    url: 'Coming Soon',
+    url: 'https://youtu.be/Gc8uQJjIxFo',
     repo: 'https://github.com/Davidkrem/TypeScript-TaskBoard', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'CoinbaseClone.png',
-    title: 'Coinbase Clone',
-    info: `Cloned Coinbase's UI using React Native`,
-    info2: '',
-    url: 'Coming Soon',
-    repo: 'https://github.com/Davidkrem/coinbase-clone/tree/main/components', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
